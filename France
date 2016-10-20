@@ -1,0 +1,23 @@
+speed 20
+pen black, 2 
+slide 100,0
+slide 0, 50 
+slide -100,0
+slide 0,-50
+rt 90
+fd 35
+lt 90 
+fd 50
+fill blue
+bk 50 
+rt 90 
+fd 30
+lt 90 
+fd 50
+fill white
+bk 50
+rt 90 
+fd 35
+lt 90
+fd 50
+fill red 
